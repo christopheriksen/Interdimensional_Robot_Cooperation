@@ -1,4 +1,4 @@
-Interdemensional_Robot_Cooperation
+Interdimensional_Robot_Cooperation
 ==================================
 
 Vision-based drone navigation research project  at Harvey Mudd College.
