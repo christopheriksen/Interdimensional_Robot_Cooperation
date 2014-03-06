@@ -1,0 +1,3 @@
+/home/robotics/Desktop/KristinasDesktopTo01_20_2014/mapDescriptors/
+/home/robotics/Desktop/KristinasDesktopTo01_20_2014/mapKeypoints/
+/home/robotics/Desktop/KristinasDesktopTo01_20_2014/presentationScreenshots/original.png
